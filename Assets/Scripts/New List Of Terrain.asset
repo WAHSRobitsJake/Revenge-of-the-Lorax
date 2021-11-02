@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62879d44cd29b6947a4202cbd0836ba4, type: 3}
+  m_Name: New List Of Terrain
+  m_EditorClassIdentifier: 
+  lastTreesGenerated: 4
+  totalTreesGenerated: 4
+  level: 1
+  terrain:
+  - {fileID: 242246577836754061, guid: 0041ce16100d0874a8deb565c9be2f14, type: 3}
+  - {fileID: 5415424835826431348, guid: 1beb2ae357fac9e4bb66669e02840997, type: 3}
+  - {fileID: 3443449160725298669, guid: 58143836407e21746a34685a58eec22f, type: 3}
+  - {fileID: 3443449160725298669, guid: 58143836407e21746a34685a58eec22f, type: 3}
+  - {fileID: 3443449160725298669, guid: 58143836407e21746a34685a58eec22f, type: 3}
+  endTerrain: {fileID: 574061512924257287, guid: 7e0ff3fa50486e14c8a1d5e4e9ac6e86,
+    type: 3}
+  endTerrainLvl2: {fileID: 1318596562920785384, guid: 1fe797241306d124d84a244779de64aa,
+    type: 3}
+  terrainGenerated: 2

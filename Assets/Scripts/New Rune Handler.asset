@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fd784245a438784399ce594802e14c5, type: 3}
+  m_Name: New Rune Handler
+  m_EditorClassIdentifier: 
+  isNewGame: 0
+  inactiveRunes:
+  - {fileID: 3671826976708808113, guid: fa0d3524b49a2dc4c9de194c32ff4ab0, type: 3}
+  - {fileID: 5245167620999536684, guid: 152fc5c71f1c46c438f405afd36a8ff2, type: 3}
+  defaultRunes:
+  - {fileID: 3671826976708808113, guid: fa0d3524b49a2dc4c9de194c32ff4ab0, type: 3}
+  - {fileID: 5245167620999536684, guid: 152fc5c71f1c46c438f405afd36a8ff2, type: 3}
+  unaddedRunes:
+  - {fileID: 5722262354941666727, guid: 3456bfd3b8f1acf4b96909b23142b7c2, type: 3}
+  - {fileID: 6242549953558185718, guid: 31d92059963803845826d130b5761de8, type: 3}
+  - {fileID: 3482261628864549552, guid: f3279b135dcd53a4d8bd3767e79515ef, type: 3}
+  - {fileID: 2927754429822603919, guid: 656da9745efbdbf4aa0ed4247d644cd3, type: 3}
+  activeRunes: []
